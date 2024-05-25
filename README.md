@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on project running
-- 📫 How to reach me aryan11318920@gmail.com
+- 📫 How to reach me theamritsharma0@gmail.com
 
 <!---
 amrit-shr/amrit-shr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
